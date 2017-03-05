@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry exported="true" kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7"/>
+	<classpathentry exported="true" kind="lib" path="G:/JavaWeb/HttpClient/httpclient_jar/commons-codec-1.7.jar"/>
+	<classpathentry exported="true" kind="lib" path="G:/JavaWeb/HttpClient/httpclient_jar/commons-httpclient.jar"/>
+	<classpathentry exported="true" kind="lib" path="G:/JavaWeb/HttpClient/httpclient_jar/commons-logging-1.1.1.jar"/>
+	<classpathentry exported="true" kind="lib" path="G:/JavaWeb/HttpClient/httpclient_jar/httpclient-4.2.2.jar"/>
+	<classpathentry exported="true" kind="lib" path="G:/JavaWeb/HttpClient/httpclient_jar/httpcore-4.2.2.jar"/>
+	<classpathentry exported="true" kind="lib" path="G:/JavaWeb/jsoup-1.10.1.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
